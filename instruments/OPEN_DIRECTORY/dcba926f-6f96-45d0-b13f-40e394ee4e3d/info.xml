@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Piper Cherokee</aircraft><type>Attitude Indicator</type><uuid>dcba926f-6f96-45d0-b13f-40e394ee4e3d</uuid><author>John Parker</author><description>Modification of Jason Tatum's original Attitude gauge
+Brian McMullan 20180324
+Property for background off/on (default ON)
+Property for dimming overlay (default OFF)
+Property for Pilot (vac1) or co-pilot (vac2) (XP only) (default vac1)
+Property for animated or snap fail flag (default ON)
+
+Added Artificial Horizon two-way updates AM to (XP only)
+
+</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>true</compatibleXPL><version>105</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>512</prefWidth><prefHeight>512</prefHeight><source>PERSONAL</source></pluginstrument>

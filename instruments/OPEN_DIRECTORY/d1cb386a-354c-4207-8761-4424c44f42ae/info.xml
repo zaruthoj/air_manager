@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Piper Cherokee</aircraft><type>Garmin CDI/GS</type><uuid>d1cb386a-354c-4207-8761-4424c44f42ae</uuid><author>John Parker</author><description>Cloned Generic VOR
+--------------------------------------------------------
+
+Annunciators - Right
+
+Built by Filipe Bessa
+São Paulo - Brazil</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>true</compatibleXPL><version>2</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>500</prefWidth><prefHeight>500</prefHeight><source>PERSONAL</source></pluginstrument>

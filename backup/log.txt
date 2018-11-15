@@ -1,0 +1,1113 @@
+2018-06-27 17:37:50 INFO  Project - Starting Air Manager Home Use 3.3 (Home Use, Demo) (JAVA=1.8.0_171)
+2018-06-27 17:37:51 INFO  AMBase - Initializing
+2018-06-27 17:37:51 INFO  AMBase - HW id = 6a7eaaeead04e7f74f5931b7a1ae619c
+2018-06-27 17:37:51 INFO  LibInstrument - Creating default database
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:04 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:05 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:06 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:07 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:08 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:09 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:10 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:11 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:12 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:13 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:14 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:15 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:16 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:17 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:18 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:19 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:20 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:21 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:22 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:23 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:24 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:25 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:82: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:06:25 ERROR InstrumentRunner - 6fa15fd0-bd47-4f17-9e45-7f94b0f8f759: [string "logic.lua"]:83: Argument 'id(1)' in function 'rotate' is nil, which is not allowed
+2018-06-27 19:40:43 INFO  Project - Closing
+2018-06-27 19:40:44 INFO  Project - Closed
+2018-06-27 19:40:59 INFO  Project - Starting Air Manager Home Use 3.3 (Home Use, Activated) (JAVA=1.8.0_171)
+2018-06-27 19:40:59 INFO  AMBase - Initializing
+2018-06-27 19:40:59 INFO  AMBase - HW id = 6a7eaaeead04e7f74f5931b7a1ae619c
+2018-06-27 19:46:18 INFO  Project - Closing
+2018-06-27 19:46:22 INFO  Project - Closed
+2018-07-05 21:24:33 INFO  Project - Starting Air Manager Home Use 3.3 (Home Use, Activated) (JAVA=1.8.0_171)
+2018-07-05 21:24:33 INFO  AMBase - Initializing
+2018-07-05 21:24:33 INFO  AMBase - HW id = 6a7eaaeead04e7f74f5931b7a1ae619c
+2018-07-05 22:29:12 ERROR InstrumentRunner - 0fbd52fd-9c3a-4d25-1bee-e6a771213eab: [string "logic.lua"]:41: Argument 'callback(5)' in function 'xpl_dataref_subscribe' is nil, which is not allowed
+2018-07-05 22:29:12 ERROR InstrumentRunner - 0fbd52fd-9c3a-4d25-1bee-e6a771213eab: [string "logic.lua"]:45: Argument 'callback(7)' in function 'fsx_variable_subscribe' is nil, which is not allowed
+2018-07-05 22:33:24 ERROR InstrumentRunner - 0fbd52fd-9c3a-4d25-1bee-e6a771213eab: error in dataref callback: [string "logic.lua"]:42: attempt to perform arithmetic on a nil value (global 'var')
+2018-07-05 22:41:21 ERROR SiFile - Failed to open path 'C:\Users\john/Air Manager/instruments/OPEN_DIRECTORY/0fbd52fd-9c3a-4d25-1bee-e6a771213eab/preview.png' (No such file or directory)
+2018-07-05 22:45:48 ERROR InstrumentScanner - 669935b4-dc98-4c92-ac2d-1a09cdd4b1e5: Error loading instrument script: logic.lua [string "logic.lua"]:59: ')' expected (to close '(' at line 56) near 'new_var_fsx'
+2018-07-05 22:45:48 ERROR InstrumentRunner - 669935b4-dc98-4c92-ac2d-1a09cdd4b1e5: Error loading instrument script: logic.lua [string "logic.lua"]:59: ')' expected (to close '(' at line 56) near 'new_var_fsx'
+2018-07-05 22:50:45 INFO  Project - Closing
+2018-07-05 22:50:47 INFO  Project - Closed
+2018-07-05 22:50:49 INFO  Project - Starting Air Manager Home Use 3.3 (Home Use, Activated) (JAVA=1.8.0_171)
+2018-07-05 22:50:49 INFO  AMBase - Initializing
+2018-07-05 22:50:49 INFO  AMBase - HW id = 6a7eaaeead04e7f74f5931b7a1ae619c
+2018-07-05 23:37:49 INFO  Project - Closing
+2018-07-05 23:37:52 INFO  Project - Closed
+2018-07-14 22:42:19 INFO  Project - Starting Air Manager Home Use 3.3 (Home Use, Activated) (JAVA=1.8.0_171)
+2018-07-14 22:42:19 INFO  AMBase - Initializing
+2018-07-14 22:42:19 INFO  AMBase - HW id = 6a7eaaeead04e7f74f5931b7a1ae619c
+2018-07-14 22:46:43 INFO  SimBusConnectionHandler - Discovered Prepar3D on 192.168.1.10:55557 (am_port=55558)
+2018-07-14 22:46:56 INFO  InstrumentProject - Aircraft changed from '(null)' to 'Piper Pa-28-180 Cherokee 1'
+2018-07-14 22:48:23 INFO  SimBusConnectionHandler - Discovered Prepar3D on 192.168.1.10:55557 (am_port=55558)
+2018-07-14 23:22:18 INFO  Project - Closing
+2018-07-14 23:22:22 INFO  Project - Closed
+2018-07-16 20:58:38 INFO  Project - Starting Air Manager Home Use 3.3 (Home Use, Activated) (JAVA=1.8.0_171)
+2018-07-16 20:58:38 INFO  AMBase - Initializing
+2018-07-16 20:58:38 INFO  AMBase - HW id = 6a7eaaeead04e7f74f5931b7a1ae619c
+2018-07-16 20:58:38 INFO  SimBusConnectionHandler - Discovered Prepar3D on 192.168.1.10:55557 (am_port=55558)
+2018-07-16 20:58:38 INFO  InstrumentProject - Aircraft changed from '(null)' to 'Piper Pa-28-180 Cherokee 1'
+2018-07-16 22:17:36 INFO  SimBusConnectionHandler - Discovered Prepar3D on 192.168.1.10:55557 (am_port=55558)
+2018-07-16 22:22:45 INFO  SimBusConnectionHandler - Discovered Prepar3D on 192.168.1.10:55557 (am_port=55558)
+2018-07-16 22:23:56 INFO  Project - Closing
+2018-07-16 22:24:01 INFO  Project - Closed
+2018-08-13 03:02:26 INFO  Project - Starting Air Manager Home Use 3.4 (Home Use, Activated) (JAVA=1.8.0_171)
+2018-08-13 03:02:26 INFO  AMBase - Initializing
+2018-08-13 03:02:26 INFO  AMBase - HW id = 6a7eaaeead04e7f74f5931b7a1ae619c
+2018-08-13 03:02:26 INFO  LibInstrument - Executing SQL upgrade script ./database/upgrade_9_to_10.sql
+2018-08-13 03:02:26 INFO  LibInstrument - Executing SQL upgrade script ./database/upgrade_10_to_11.sql
+2018-08-12 20:26:36 INFO  SimRemoteClient - Connected to 192.168.1.200
+2018-08-12 20:27:05 ERROR SimRemoteClient - Lost connection with client: An existing connection was forcibly closed by the remote host. 
+2018-08-12 20:30:18 INFO  Project - Closing
+2018-08-12 20:30:21 INFO  Project - Closed
+2018-08-12 20:34:16 INFO  Project - Starting Air Manager Home Use 3.4 (Home Use, Activated) (JAVA=1.8.0_171)
+2018-08-12 20:34:16 INFO  AMBase - Initializing
+2018-08-12 20:34:16 INFO  AMBase - HW id = 6a7eaaeead04e7f74f5931b7a1ae619c
+2018-08-12 20:34:17 INFO  SimRemoteClient - Connected to 192.168.1.200
+2018-08-12 20:39:04 ERROR SimRemoteClient - Lost connection with client: An existing connection was forcibly closed by the remote host. 
+2018-08-12 20:39:26 INFO  SimRemoteClient - Connected to 192.168.1.236
+2018-08-12 20:39:42 INFO  Project - Closing
+2018-08-12 20:39:45 INFO  Project - Closed
+2018-08-12 20:39:45 ERROR SimRemoteClient - Lost connection with client: An established connection was aborted by the software in your host machine. 
+2018-08-12 20:39:45 INFO  SimRemoteClient - Connected to 192.168.1.236
+2018-08-12 20:39:46 INFO  Project - Starting Air Manager Home Use 3.4 (Home Use, Activated) (JAVA=1.8.0_171)
+2018-08-12 20:39:46 INFO  AMBase - Initializing
+2018-08-12 20:39:46 INFO  AMBase - HW id = 6a7eaaeead04e7f74f5931b7a1ae619c
+2018-08-12 20:39:47 INFO  SimRemoteClient - Connected to 192.168.1.236
+2018-08-12 20:42:02 INFO  SimBusConnectionHandler - Discovered Prepar3D on 192.168.1.10:55557 (am_port=55558)
+2018-08-12 20:42:21 INFO  InstrumentProject - Aircraft changed from '(null)' to 'Piper Pa-28-180 Cherokee 1'
+2018-08-12 22:08:39 INFO  SimBusConnectionHandler - Discovered Prepar3D on 192.168.1.10:55557 (am_port=55558)
+2018-08-12 23:44:00 ERROR SimRemoteClient - Lost connection with 192.168.1.236 on port 6002 because of timeout
+2018-08-12 23:44:06 INFO  SimRemoteClient - Connected to 192.168.1.236
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:50 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:51 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:52 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:53 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:54 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:55 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:56 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:57 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:58 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:12:59 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:13:00 ERROR InstrumentRunner - d1cb386a-354c-4207-8761-4424c44f42ae: error in timer callback: [string "logic.lua"]:92: attempt to call a nil value (global 'abs')
+2018-08-13 01:22:05 INFO  SimBusConnectionHandler - Discovered Prepar3D on 192.168.1.10:55557 (am_port=55558)
+2018-08-13 01:34:07 ERROR InstrumentRunner - 6319ea49-f3c8-45fb-b907-ac7ccfc75e64: error in dataref callback: [string "logic.lua"]:35: attempt to call a nil value (global 'text_set')
+2018-08-13 01:34:58 INFO  SimBusConnectionHandler - Discovered Prepar3D on 192.168.1.10:55557 (am_port=55558)
+2018-08-13 01:39:30 ERROR InstrumentScanner - 6319ea49-f3c8-45fb-b907-ac7ccfc75e64: Error loading instrument script: logic.lua [string "logic.lua"]:34: 'then' expected near 'fp'
+2018-08-13 01:39:30 ERROR InstrumentRunner - 6319ea49-f3c8-45fb-b907-ac7ccfc75e64: Error loading instrument script: logic.lua [string "logic.lua"]:34: 'then' expected near 'fp'
+2018-08-13 01:43:27 ERROR InstrumentRunner - 6319ea49-f3c8-45fb-b907-ac7ccfc75e64: [string "logic.lua"]:42: Function 'fsx_variable_subscribe' received a wrong number of arguments

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Piper Cherokee</aircraft><type>Fuel Pressure</type><uuid>6319ea49-f3c8-45fb-b907-ac7ccfc75e64</uuid><author>Jason Tatum</author><description>Modification of Jason Tatum's original Vacuum &amp; ammeter
+Brian McMullan 20180324
+Property for background off/on (default ON)
+Property for dimming overlay (default OFF)</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>true</compatibleXPL><version>108</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>190</prefWidth><prefHeight>95</prefHeight><source>PERSONAL</source></pluginstrument>

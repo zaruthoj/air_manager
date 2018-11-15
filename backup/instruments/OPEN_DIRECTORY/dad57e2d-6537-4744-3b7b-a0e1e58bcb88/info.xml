@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Piper Cherokee</aircraft><type>Airspeed MPH</type><uuid>dad57e2d-6537-4744-3b7b-a0e1e58bcb88</uuid><author>John Parker</author><description>Modification by Brian McMullan
+Property for background off/on (default ON)
+Property for dimming overlay (default OFF)
+ 
+Uses A2A indicated airspeed if available, with a temperature of 15 degrees C at a pressure altitude of 0 ft(sea level) with a pressure set at 1013hpa (or 29.92 inHg).</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>true</compatibleXPL><version>104</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>512</prefWidth><prefHeight>512</prefHeight><source>PERSONAL</source></pluginstrument>

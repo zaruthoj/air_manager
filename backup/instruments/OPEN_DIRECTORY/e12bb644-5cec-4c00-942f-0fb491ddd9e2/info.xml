@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+ <aircraft>Piper PA34 Seneca V</aircraft>
+ <type>Vertical Speed Indicator</type>
+ <uuid>e12bb644-5cec-4c00-942f-0fb491ddd9e2</uuid>
+ <author>Filipe Bessa</author>
+ <description>Piper Seneca V 
+Gauge built based on Carenado Piper Seneca V
+--------------------------------------------------------
+
+Vertical Speed Indicator
+
+Built by Filipe Bessa
+São Paulo - Brazil</description>
+ <compatibleFSX>true</compatibleFSX>
+ <compatibleP3D>true</compatibleP3D>
+ <compatibleXPL>false</compatibleXPL>
+ <version>2</version>
+ <configVersion>1</configVersion>
+ <pluginInterfaceVersion>100</pluginInterfaceVersion>
+ <prefWidth>500</prefWidth>
+ <prefHeight>500</prefHeight>
+</pluginstrument>

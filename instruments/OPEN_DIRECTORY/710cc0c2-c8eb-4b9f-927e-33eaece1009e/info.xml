@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Piper PA34 Seneca V</aircraft><type>Clock</type><uuid>710cc0c2-c8eb-4b9f-927e-33eaece1009e</uuid><author>Filipe Bessa</author><description>Piper PA34 Seneca V 
+Gauge built based on Carenado Piper Seneca V
+--------------------------------------------------------
+V2 - 20/02/2018
+Updated to AM 3.2. No longer use LVAR for OAT, Select and Control buttons.
+Fixed the timer clock. 
+Added Arduino code for external push button for OAT, Select and Control buttons.
+--------------------------------------------------------
+
+Clock
+
+Built by Filipe Bessa
+São Paulo - Brazil</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>false</compatibleXPL><compatibleFSW>false</compatibleFSW><compatibleFS2>false</compatibleFS2><version>3</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>350</prefWidth><prefHeight>350</prefHeight><source>ONLINE</source></pluginstrument>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Piper Cherokee</aircraft><type>Fuel Quantity</type><uuid>6fa15fd0-bd47-4f17-9e45-7f94b0f8f759</uuid><author>John Parker</author><description>Modification by Brian McMullan
+Property for background off/on (default ON)
+Property for dimming overlay (default OFF)
+
+Compatible with the A2A and AirFoil Labs Cessna 172</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>true</compatibleXPL><version>104</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>190</prefWidth><prefHeight>95</prefHeight><source>PERSONAL</source></pluginstrument>

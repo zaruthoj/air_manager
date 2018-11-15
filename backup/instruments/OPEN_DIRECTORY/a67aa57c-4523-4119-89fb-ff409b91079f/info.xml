@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Cessna 172</aircraft><type>Oil Temp &amp; Pressure</type><uuid>a67aa57c-4523-4119-89fb-ff409b91079f</uuid><author>Jason Tatum</author><description>Modification of Jason Tatum's original 'Engine Temp &amp; Oil Pressure' gauge
+Brian McMullan 20180324
+Property for background off/on (default ON)
+Property for dimming overlay (default OFF)</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>true</compatibleXPL><version>109</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>512</prefWidth><prefHeight>512</prefHeight><source>ONLINE</source></pluginstrument>

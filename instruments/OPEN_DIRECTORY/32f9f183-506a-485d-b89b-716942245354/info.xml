@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Piper Cherokee</aircraft><type>Tachometer RPM</type><uuid>32f9f183-506a-485d-b89b-716942245354</uuid><author>Jason Tatum</author><description>Modification by Brian McMullan
+Property for background off/on (default ON)
+Property for dimming overlay (default OFF)</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>true</compatibleXPL><version>116</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>512</prefWidth><prefHeight>512</prefHeight><source>PERSONAL</source></pluginstrument>

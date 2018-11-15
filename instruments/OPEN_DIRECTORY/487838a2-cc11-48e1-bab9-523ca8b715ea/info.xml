@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Cessna 172</aircraft><type>Turn Coordinator</type><uuid>487838a2-cc11-48e1-bab9-523ca8b715ea</uuid><author>Jason Tatum</author><description>Modification of Jason Tatum's original 'Turn &amp; Balance' gauge
+Brian McMullan 20180324
+Property for background off/on (default ON)
+Property for dimming overlay (default OFF)</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>true</compatibleXPL><version>109</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>512</prefWidth><prefHeight>512</prefHeight></pluginstrument>

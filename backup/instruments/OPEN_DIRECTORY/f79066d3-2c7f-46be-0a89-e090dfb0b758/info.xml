@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>Piper Cherokee</aircraft><type>Altimeter</type><uuid>f79066d3-2c7f-46be-0a89-e090dfb0b758</uuid><author>John Parker</author><description>Modification Brian McMullan
+Property for background off/on (default ON)
+Property for dimming overlay (default OFF)</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>true</compatibleXPL><version>105</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>512</prefWidth><prefHeight>512</prefHeight><source>PERSONAL</source></pluginstrument>
